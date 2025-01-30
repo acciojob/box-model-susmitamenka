@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
 .container{
 	display:flex;
-	height:120px;
-	width:400px;
+	height:200px;
+	width:100px;
 	border:5px solid black;
 	border-radius:20px;
 	background-color:lightgray;
@@ -10,19 +10,19 @@
 	padding:10px;
 	gap:10px;
 	align-items:center;
-	.a{
+	.red{
 	background-color:green;
 	height:50px;
 	width:50px;
 	border-radius:100%;
 	
 	}
-	.b{background-color:yellow;
+	.green{background-color:yellow;
 	  height:50px;
 	width:50px;
 	   border-radius:100%;
 	};
-	.c{background-color:red;
+	.yellow{background-color:red;
 	  height:50px;
 	width:50px;
 	    border-radius:100%;
