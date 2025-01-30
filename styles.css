@@ -9,10 +9,22 @@
 	justify-content:center;
 	padding:10px;
 	gap:10px;
-	text:100px;
+	align-items:center;
 	.a{
-	color:green;
+	background-color:green;
+	height:50px;
+	width:50px;
+	border-radius:100%;
+	
 	}
-	.b{color:yellow};
-	.c{color:red};
+	.b{background-color:yellow;
+	  height:50px;
+	width:50px;
+	   border-radius:100%;
+	};
+	.c{background-color:red;
+	  height:50px;
+	width:50px;
+	    border-radius:100%;
+	};
 }
